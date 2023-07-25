@@ -1,0 +1,34 @@
+Spring Boot/Microservices:
+  ❑  DB Installation
+    ❑  DDL's - Chinook Digital Music Store
+  ❑  Whats Transaction DB
+    ❑  Where the History tables are defined
+    ❑  Which scenario the Caching can be used - The EhCache is open source 
+  ❑  Whats OLAP and OLTP
+  ❑  Swaggar Documentation
+  ❑  Data Modelling via Model Jar
+  ❑  Requirements Documentations and User Stories
+
+
+  Microcervices :
+      ❑  Security microservices for Authentication and Authorization
+        ❑  Owasp security vulnerabilities
+        ❑  https://www.keycloak.org/getting-started/getting-started-docker
+            ❑  OIM is used in Davita
+        ❑  Upload a pre configured docker image of keycloak
+      ❑  Query Microservice
+      ❑  Search Microservice
+      ❑  Report Microservice 
+      ❑  Command Microservice
+      ❑  ZUUL API Gateway
+  ❑  Build File explained
+  ❑  Docker integration
+  ❑  Kubernetes
+  ❑  Jenkins Pipeline
+
+
+  Release:
+   ❑  https://www.plutora.com/blog/deployment-strategies-6-explained-in-depth
+   ❑  Canary/ Blue
+   ❑  Blue/Green Deployment
+   ❑  
