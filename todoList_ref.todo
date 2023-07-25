@@ -22,7 +22,6 @@ Done:
    ☐ ⌘+d (ctrl+d on Windows) marks a task as done
    ☐ ctrl+c (alt+c on Windows) marks the task as cancelled
 
-
 Tagging:
    ☐ You can add tags using @ sign, like this @tags        
         To unfold all press ⌘+k, ⌘+j or ⌘+k, ⌘+0
@@ -45,9 +44,9 @@ File links:
 You can use separator snippet to separate your todo lists, type -- and press tab
 
 Priority:
-  ☐ type c, press tab key — it’ll become @critical
-  ☐ type h, press tab key — it’ll become @high
-  ☐ type l, press tab key — it’ll become @low
+  ☐ type c, press tab key — it’ll become @critical
+  ☐ type h, press tab key — it’ll become @high
+  ☐ type l, press tab key — it’ll become @low
   ☐ type t, press tab key — it’ll become @today
 
 

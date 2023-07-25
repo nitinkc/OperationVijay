@@ -9,7 +9,6 @@ Spring Boot/Microservices:
   ❑  Data Modelling via Model Jar
   ❑  Requirements Documentations and User Stories
 
-
   Microcervices :
       ❑  Security microservices for Authentication and Authorization
         ❑  Owasp security vulnerabilities
@@ -25,7 +24,6 @@ Spring Boot/Microservices:
   ❑  Docker integration
   ❑  Kubernetes
   ❑  Jenkins Pipeline
-
 
   Release:
    ❑  https://www.plutora.com/blog/deployment-strategies-6-explained-in-depth
