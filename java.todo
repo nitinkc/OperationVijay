@@ -1,19 +1,8 @@
---- ✄ -----------------------
-
 1. Self-Assessment:
 
  ❑  pre-training assessment to identify the existing 
    ❑  Java knowledge and 
    ❑  areas that need improvement.
-
-12. Java Best Practices and Code Quality:
-  ❑  Cover Java coding standards and best practices.
-  ❑  Discuss code review techniques for maintaining code quality.
-
-10. Introduction to Frameworks and Libraries:
-  ❑  Introduce popular Java frameworks like Spring, Hibernate, and Apache Commons.
-  ❑  Explain how these frameworks can streamline application development.
-
 
 2. Advanced Java Concepts Overview:
 
@@ -33,7 +22,7 @@ Introduce more advanced concepts, such as
   ❑  Review exception handling basics.
   ❑  Introduce logging frameworks like Log4j or SLF4J for effective application debugging.
 
-5. Concurrency and Multithreading:
+5. Concurrency and Multithreading: @tags()
   ❑  Explain multithreading concepts and synchronization techniques. - @low
   ❑  Explore the java.util.concurrent package and higher-level concurrency utilities.
   ❑  Executor Framework using Lambdas @critical
@@ -43,14 +32,13 @@ Introduce more advanced concepts, such as
   ❑  Discuss the importance of design patterns in building scalable and maintainable applications.
 
 
-11. Unit Testing in Java:
+11. Unit Testing in Java: 
   ❑  Discuss unit testing using JUnit or TestNG.
   ❑  Explain test-driven development (TDD) concepts.
 
 
 7. JDBC and Database Connectivity: 
  Interview ONLY
-
   ❑  Cover JDBC concepts for connecting Java applications to databases.
   ❑  Discuss best practices for database interactions and connection management. @tag(diy)
 
@@ -63,17 +51,25 @@ Introduce more advanced concepts, such as
 
 9. Java Memory Management and Performance Tuning:
 
-Cover Java memory model, garbage collection, and performance tuning tips.
-Discuss ways to optimize code for better performance.
+ ❑ Cover Java memory model, garbage collection, and performance tuning tips.
+ ❑ Discuss ways to optimize code for better performance.
 
 
 13. Real-World Projects and Hands-on Practice:
-- Assign real-world projects to apply the learned concepts.
-- Encourage hands-on coding and debugging exercises.
+ ❑ Assign real-world projects to apply the learned concepts.
+ ❑ Encourage hands-on coding and debugging exercises.
+
+12. Java Best Practices and Code Quality:
+  ❑  Cover Java coding standards and best practices.
+  ❑  Discuss code review techniques for maintaining code quality.
+
+10. Introduction to Frameworks and Libraries:
+  ❑  Introduce popular Java frameworks like Spring, Hibernate, and Apache Commons.
+  ❑  Explain how these frameworks can streamline application development.
 
 14. Industry Trends and Libraries:
-- Provide insights into the latest Java versions and features.
-- Explore trending libraries and tools in the Java ecosystem.
+ ❑ Provide insights into the latest Java versions and features.
+ ❑ Explore trending libraries and tools in the Java ecosystem.
 
 15. Continuous Learning and Resources:
-- Guide the professional on various resources (books, websites, forums) for continuous learning. 
+ ❑  books, websites, forums for continuous learning. 

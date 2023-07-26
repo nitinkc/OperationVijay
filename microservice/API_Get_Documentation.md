@@ -1,5 +1,3 @@
-Certainly! Here are all the 20 APIs in the same format as above, along with their corresponding data models for the entities in the Music Store database:
-
 ### API Documentation
 
 #### 1. Get All Playlists
