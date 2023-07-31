@@ -6,16 +6,18 @@
 
 2. Advanced Java Concepts Overview:
 
-Introduce more advanced concepts, such as 
-  ❑  lambdas, 
-  ❑  streams, 
-  ❑  functional interfaces, and 
-  ❑  the Optional class.
+Introduce more advanced concepts, such as
+  ❑ functional interfaces  
+  ❑ lambdas
+  ❑ functional programming
+  ❑ streams, 
+  ❑ the Optional class.
+  ❑ method reference
 
 4. Java Collections Framework in Depth:
-  ❑  Explore the Java Collections Framework, focusing on different data structures like 
-    ❑  List, Set, Map, and 
-    ❑  their respective implementations.
+ Explore the Java Collections Framework, focusing on different data structures like 
+    ❑  List, Set, Tree , Heap and their respective implementations.
+    ❑  Map
   ❑  Discuss when to use specific data structures based on the application requirements.
 
 8. Exception Handling and Logging:
