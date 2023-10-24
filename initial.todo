@@ -5,7 +5,6 @@ Ask :
 	❑	github id
 	❑	Docker Id
 	❑	postman Id
-	❑	install signal app
 
 --- ✄ -----------------------
 
@@ -38,6 +37,7 @@ Github :
 	❑	Notes
 	❑	Organization for Microservoces
 	❑	Tasks
+
 	Github Actions:
 		❑	Publish Java Package with Gradle
 		❑	Build and Deploy to GKE
@@ -47,8 +47,6 @@ Github :
 ❑	The Hippocratic Oath
 
 Github projects :
-	❑	Java Concepts
-		❑	Add me as contributor. Add a package Suchi and add your practisew code there
 	❑	Environment Files - System changes should not affect the Development environment
 	❑	Spring Concepts - one for each module
 	❑	Design Patterns
@@ -58,17 +56,3 @@ Intelli J :
 	❑	Settings - https://nitinkc.github.io/developer%20tools/inteliJ-Idea-CE-settings/ @critical
 	❑	KeyMap Links - https://nitinkc.github.io/shortcuts/intelliJ-Idea-shortcuts/ 
 
-Java :
-	❑ Project Lombok library
-	❑	Gradle
-	❑	Java Faker
-	❑ Random/Faker library
-	❑	Apache Libraries
-		❑	String Utils
-		❑	Commons Collections
-		❑	Commons Math
-	❑	Jackson Mapper
-	❑	Map struct
-	❑	Reactive
-	❑	SL4J
-	❑	Java time library

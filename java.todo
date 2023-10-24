@@ -1,3 +1,19 @@
+Java :
+  ❑ Project Lombok library
+  ❑  Gradle
+  ❑  Java Faker
+  ❑ Random/Faker library
+  ❑  Apache Libraries
+    ❑  String Utils
+    ❑  Commons Collections
+    ❑  Commons Math
+  ❑  Jackson Mapper
+  ❑  Map struct
+  ❑  Reactive
+  ❑  SL4J
+  ❑  Java time library
+
+
 1. Self-Assessment:
 
  ❑  pre-training assessment to identify the existing 
@@ -14,13 +30,13 @@ Introduce more advanced concepts, such as
   ❑ the Optional class.
   ❑ method reference
 
-4. Java Collections Framework in Depth:
+3. Java Collections Framework in Depth:
  Explore the Java Collections Framework, focusing on different data structures like 
     ❑  List, Set, Tree , Heap and their respective implementations.
     ❑  Map
   ❑  Discuss when to use specific data structures based on the application requirements.
 
-8. Exception Handling and Logging:
+4. Exception Handling and Logging:
   ❑  Review exception handling basics.
   ❑  Introduce logging frameworks like Log4j or SLF4J for effective application debugging.
 
@@ -29,35 +45,36 @@ Introduce more advanced concepts, such as
   ❑  Explore the java.util.concurrent package and higher-level concurrency utilities.
   ❑  Executor Framework using Lambdas @critical
 
-3. Design Patterns:
+6. Design Patterns:
   ❑  Explore common design patterns like Singleton, Factory, Observer, and Strategy patterns.
   ❑  Discuss the importance of design patterns in building scalable and maintainable applications.
 
 
-11. Unit Testing in Java: 
+7. Unit Testing in Java: 
   ❑  Discuss unit testing using JUnit or TestNG.
   ❑  Explain test-driven development (TDD) concepts.
 
 
-7. JDBC and Database Connectivity: 
+8. JDBC and Database Connectivity: 
  Interview ONLY
   ❑  Cover JDBC concepts for connecting Java applications to databases.
   ❑  Discuss best practices for database interactions and connection management. @tag(diy)
 
 
-6. File Handling and I/O:
+9. File Handling and I/O:
 
   ❑  Review basic file handling and I/O operations. @tag(diy)
   ❑  Introduce advanced file processing techniques using NIO (java.nio package).
 
 
-9. Java Memory Management and Performance Tuning:
+10. Java Memory Management and Performance Tuning:
 
  ❑ Cover Java memory model, garbage collection, and performance tuning tips.
  ❑ Discuss ways to optimize code for better performance.
 
+** Generics and Garbage Collectors **
 
-13. Real-World Projects and Hands-on Practice:
+11. Real-World Projects and Hands-on Practice:
  ❑ Assign real-world projects to apply the learned concepts.
  ❑ Encourage hands-on coding and debugging exercises.
 
@@ -65,8 +82,8 @@ Introduce more advanced concepts, such as
   ❑  Cover Java coding standards and best practices.
   ❑  Discuss code review techniques for maintaining code quality.
 
-10. Introduction to Frameworks and Libraries:
-  ❑  Introduce popular Java frameworks like Spring, Hibernate, and Apache Commons.
+13. Introduction to Frameworks and Libraries:
+  ❑  Introduce popular Java frameworks like Spring 6, Spring boot 3.1, Hibernate, and Apache Commons.
   ❑  Explain how these frameworks can streamline application development.
 
 14. Industry Trends and Libraries:

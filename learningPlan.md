@@ -1,4 +1,4 @@
-## Learning Plan:
+## Data Structures Learning Plan:
 
 ### Phase 1: Arrays, LinkedList, Tree, Dynamic Programming (60%)
 
