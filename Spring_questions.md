@@ -10,3 +10,7 @@ private String customVal;
 38) What is @pathVariable?
 @PathVariable annotation helps you to extract information from the URI directly.
 
+
+# Can Records be used Entities?
+
+https://www.baeldung.com/spring-jpa-java-records#1-records-cant-be-entities

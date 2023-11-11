@@ -9,7 +9,7 @@ Spring Boot/Microservices:
   ❑  Data Modelling via Model Jar
   ❑  Requirements Documentations and User Stories
 
-  Microcervices :
+  Microservices :
       ❑  Security microservices for Authentication and Authorization
         ❑  Owasp security vulnerabilities
         ❑  https://www.keycloak.org/getting-started/getting-started-docker
